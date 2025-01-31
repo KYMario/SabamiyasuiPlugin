@@ -12,4 +12,4 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 
 ## クレジット
-[[TownOfHost]](https://github.com/tukasa0001/TownOfHost/) BepInExフォルダ、MODの作り方の参考にさせていただきました
+[[TownOfHost]](https://github.com/tukasa0001/TownOfHost/) BepInExフォルダ、MODの作り方を参考にさせていただきました
